@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DonationConnect/static/css/main.a07e6082.css",
-    "main.js": "/DonationConnect/static/js/main.0d822365.js",
+    "main.js": "/DonationConnect/static/js/main.d89410fb.js",
     "static/js/453.42c2a2c1.chunk.js": "/DonationConnect/static/js/453.42c2a2c1.chunk.js",
     "static/media/Dconnect.mp4": "/DonationConnect/static/media/Dconnect.b1b25ec349bed6b6254c.mp4",
     "static/media/vol3.avif": "/DonationConnect/static/media/vol3.0f298ff0abd46413a0e3.avif",
@@ -14,11 +14,11 @@
     "index.html": "/DonationConnect/index.html",
     "static/media/foodicon.webp": "/DonationConnect/static/media/foodicon.e759f0e2a3d10714bc0d.webp",
     "main.a07e6082.css.map": "/DonationConnect/static/css/main.a07e6082.css.map",
-    "main.0d822365.js.map": "/DonationConnect/static/js/main.0d822365.js.map",
+    "main.d89410fb.js.map": "/DonationConnect/static/js/main.d89410fb.js.map",
     "453.42c2a2c1.chunk.js.map": "/DonationConnect/static/js/453.42c2a2c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a07e6082.css",
-    "static/js/main.0d822365.js"
+    "static/js/main.d89410fb.js"
   ]
 }
